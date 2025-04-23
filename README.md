@@ -4,5 +4,5 @@
 
 ### Uncoming projects
 
-* Inception-Of-Things - A Kubernetes project
+* Inception-Of-Things - A Kubernetes project, including Vagrant & ArgoCD
 * BADASS - Simulate several networks (VXLAN+BGP-EVPN) in GNS3
